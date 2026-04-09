@@ -4,10 +4,12 @@
 
 ---
 
-### À propos
+「 Ingénieur Software · Fullstack & Cloud Azure 」
 
-- **Expert en transformation d'architectures** Legacy → Cloud Native
-- **Passionné** par la qualité logicielle (Clean Code, TDD) et l'intégration de l'IA en production
+- **Diplômé Ingénieur** Software Engineering — ESIEA Paris
+- **Fullstack** : Java/Spring Boot côté backend, Next.js/React côté frontend
+- **Cloud Azure** : architectures Cloud Native, CI/CD, administration Microsoft 365
+- **IA en production** : agents RAG, Azure OpenAI, intégration dans des produits réels
 - **Localisation** : Paris ou Full Remote
 
 ---
