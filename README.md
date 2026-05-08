@@ -4,8 +4,6 @@
 
 ---
 
-「 Ingénieur Software · Fullstack & Cloud Azure 」
-
 - **Diplômé Ingénieur** Software Engineering — ESIEA Paris
 - **Fullstack** : Java/Spring Boot côté backend, Next.js/React côté frontend
 - **Cloud Azure** : architectures Cloud Native, CI/CD, administration Microsoft 365
@@ -32,7 +30,7 @@
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -49,7 +47,7 @@
 
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure AI OCR](https://img.shields.io/badge/Azure_AI_(OCR)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Testing & Qualité**
 
@@ -57,6 +55,19 @@
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Cornelius-Fabiyi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cornelius-Fabiyi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Cornelius-Fabiyi&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
